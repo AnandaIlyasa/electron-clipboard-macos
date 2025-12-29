@@ -1,5 +1,7 @@
 # Clipboard History Manager (macOS)
 
+Use ```Command + Shift + V``` to display the Clipboard History.
+
 ## Build / Install
 
 ### Run Locally (Development)
