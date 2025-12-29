@@ -10,6 +10,7 @@ npm start
 ```
 
 ### Build (Production)
+
 ```bash
 npm run build
 ```
@@ -28,8 +29,8 @@ pkill -f "Clipboard History"
 
 ### 2. Remove from Login Items
 
-1. Open **System Settings**  
-2. Go to **General → Login Items**  
+1. Open **System Settings**
+2. Go to **General → Login Items**
 3. Remove **Clipboard History**
 
 ### 3. Remove Accessibility Permission
