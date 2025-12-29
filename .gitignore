@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+out/
+build/
+
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+
+# VS Code
+.vscode/
+
+# Electron temporary files
+*.asar
+*.dmg
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Optional: macOS clipboard helper binary
+swift-paste-helper
